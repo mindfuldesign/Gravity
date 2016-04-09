@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gravity
-email: hemangsk@gmail.com
-description: ramblings of a wanderer
+title: Mindful Design Manifesto
+email: ely@mindfuldesign.io
+description: my mindfully dynamic manifesto on design as a way of life
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: hemang_kumar
-github_username:  hemangsk
+url: "http://mindfuldesign.github.io" 
+twitter_username: creativ_ely
+github_username:  elykahn
 
 # Build settings
 markdown: kramdown
